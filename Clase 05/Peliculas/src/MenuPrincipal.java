@@ -12,7 +12,7 @@
  */
 import java.util.Scanner;
 
-public class menuPrincipal {
+public class MenuPrincipal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
