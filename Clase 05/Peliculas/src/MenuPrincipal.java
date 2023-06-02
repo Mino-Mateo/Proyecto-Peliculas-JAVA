@@ -210,11 +210,6 @@ public class MenuPrincipal {
                 System.out.println(Elpayasodelmal.getAnio());
                 System.out.println(Elpayasodelmal.getDirector());
                 System.out.println(Elpayasodelmal.getPais());
-                System.out.println("Opción 12 seleccionada.");
-                System.out.println(It.getNombre());
-                System.out.println(It.getAnio());
-                System.out.println(It.getDirector());
-                System.out.println(It.getPais());
                 break;
             case 12:
                 System.out.println("Opción 12 seleccionada.");
